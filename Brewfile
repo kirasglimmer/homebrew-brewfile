@@ -1,2 +1,3 @@
-cask kdiff3
+cask "kdiff3"
+cask "spotify"
 
