@@ -28,6 +28,7 @@ tap "heroku/brew"
 brew "heroku"
 
 # Misc
+cask "1password"
 cask "spotify"
 cask "dropbox"
 brew "watch"
@@ -41,4 +42,3 @@ cask "gimp"
 brew "pngquant"
 
 tap "buo/cask-upgrade"
-brew "mas"
