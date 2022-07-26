@@ -28,7 +28,7 @@ tap "heroku/brew"
 brew "heroku"
 
 # Misc
-# cask "1password"
+cask "1password"
 cask "spotify"
 cask "dropbox"
 brew "watch"
